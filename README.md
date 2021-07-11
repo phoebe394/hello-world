@@ -146,7 +146,11 @@ Then install python again using this code:
 ## Sources
 Set up Oh My Zsh
 [https://blog.logrocket.com/set-up-macbook-for-web-development-in-20-minutes/](url)
+
 [Python Environment 101](https://towardsdatascience.com/python-environment-101-1d68bda3094d#39b6)
+
 [Guide to installing homebrew and python on macOS](https://docs.python-guide.org/starting/install3/osx/)
+
 [Installing pyenv](https://opensource.com/article/19/5/python-3-default-mac)
+
 [Setting up pyenv](https://opensource.com/article/20/4/pyenv)
