@@ -144,8 +144,7 @@ Then install python again using this code:
 
 
 ## Sources
-Set up Oh My Zsh
-[https://blog.logrocket.com/set-up-macbook-for-web-development-in-20-minutes/](url)
+[Set up Oh My Zsh](https://blog.logrocket.com/set-up-macbook-for-web-development-in-20-minutes/)
 
 [Python Environment 101](https://towardsdatascience.com/python-environment-101-1d68bda3094d#39b6)
 
