@@ -64,8 +64,8 @@ Install pyenv-virtualenv:
 brew install pyenv-virtualenv
 
 Run the following to add to .zshrc:
-echo 'eval "$(pyenv init --path)"' >> ~/.zshrc
-echo 'eval "$(pyenv virtualenv-init --path)"' >> ~/.zshrc
+echo 'eval "$(pyenv init -)"' >> ~/.zshrc
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
 
 Create a virtualenv:
 pyenv virtualenv 3.9.6 py396
